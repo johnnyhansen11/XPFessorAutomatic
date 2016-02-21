@@ -1,0 +1,9 @@
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\bin\Debug\FessorAutomatic.exe.config
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\obj\Debug\FessorAutomatic.csprojResolveAssemblyReference.cache
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\obj\Debug\FessorAutomatic.Form1.resources
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\obj\Debug\FessorAutomatic.Properties.Resources.resources
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\obj\Debug\FessorAutomatic.csproj.GenerateResource.Cache
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\bin\Debug\FessorAutomatic.exe
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\bin\Debug\FessorAutomatic.pdb
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\obj\Debug\FessorAutomatic.exe
+c:\users\mldx\documents\visual studio 2015\Projects\FessorAutomatic\FessorAutomatic\obj\Debug\FessorAutomatic.pdb
